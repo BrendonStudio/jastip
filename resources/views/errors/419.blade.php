@@ -1,0 +1,1 @@
+@include('errors._layout', ['code' => 'SESI HABIS', 'title' => 'Halaman terlalu lama dibuka', 'text' => 'Demi keamanan, muat ulang halaman lalu kirim lagi. Data yang sudah kamu isi mungkin perlu diisi ulang.'])

@@ -1,0 +1,1 @@
+@include('errors._layout', ['code' => 'ADA GANGGUAN', 'title' => 'Maaf, ada yang error', 'text' => 'Kami sedang memperbaikinya. Coba lagi beberapa saat lagi, atau hubungi admin kalau terus terjadi.'])
